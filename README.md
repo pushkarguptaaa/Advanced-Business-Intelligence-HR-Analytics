@@ -77,7 +77,25 @@ The objective is to transform raw HR data into a structured data model and deliv
 ### 3️⃣ Turnover Analysis
 - Monthly and yearly turnover trends  
 - Identification of high-turnover segments  
-- Exit pattern analysis  
+- Exit pattern analysis 
+
+---
+
+## 📊 Power BI Report Screenshots
+
+### 🔹 Overview Page
+![Overview](images/overview_pic.png)
+
+### 🔹 Headcount Details Page
+![Headcount_Details](images/headcount_pic.png)
+
+### 🔹 Retention Details Page
+![Retention Details](images/retention_pic.png)
+
+### 🔹 Turnover Details Page
+![Turnover Details](images/turnover_pic.png)
+
+> 📌 *Note: Screenshots are stored in the `/images` folder.*
 
 ---
 
